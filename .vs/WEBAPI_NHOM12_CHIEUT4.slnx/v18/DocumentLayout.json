@@ -1,34 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\vscode_mautim_vip\\WEBAPI_NHOM12_CHIEUT4\\",
+  "WorkspaceRootPath": "C:\\Users\\msii\\source\\repos\\appquanlydienthoaitreem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A95B4D00-D754-4CEE-B9A9-58E7664E3675}|WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj|d:\\vscode_mautim_vip\\webapi_nhom12_chieut4\\webapi_nhom12_chieut4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A95B4D00-D754-4CEE-B9A9-58E7664E3675}|WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj|solutionrelative:webapi_nhom12_chieut4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A95B4D00-D754-4CEE-B9A9-58E7664E3675}|WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj|d:\\vscode_mautim_vip\\webapi_nhom12_chieut4\\webapi_nhom12_chieut4\\migrations\\20261021092541_initialchildsafetydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A95B4D00-D754-4CEE-B9A9-58E7664E3675}|WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj|solutionrelative:webapi_nhom12_chieut4\\migrations\\20261021092541_initialchildsafetydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A95B4D00-D754-4CEE-B9A9-58E7664E3675}|WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj|d:\\vscode_mautim_vip\\webapi_nhom12_chieut4\\webapi_nhom12_chieut4\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A95B4D00-D754-4CEE-B9A9-58E7664E3675}|WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj|solutionrelative:webapi_nhom12_chieut4\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A95B4D00-D754-4CEE-B9A9-58E7664E3675}|WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj|d:\\vscode_mautim_vip\\webapi_nhom12_chieut4\\webapi_nhom12_chieut4\\models\\applimit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A95B4D00-D754-4CEE-B9A9-58E7664E3675}|WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj|solutionrelative:webapi_nhom12_chieut4\\models\\applimit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A95B4D00-D754-4CEE-B9A9-58E7664E3675}|WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj|d:\\vscode_mautim_vip\\webapi_nhom12_chieut4\\webapi_nhom12_chieut4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A95B4D00-D754-4CEE-B9A9-58E7664E3675}|WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj|solutionrelative:webapi_nhom12_chieut4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A95B4D00-D754-4CEE-B9A9-58E7664E3675}|WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj|d:\\vscode_mautim_vip\\webapi_nhom12_chieut4\\webapi_nhom12_chieut4\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A95B4D00-D754-4CEE-B9A9-58E7664E3675}|WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj|solutionrelative:webapi_nhom12_chieut4\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A95B4D00-D754-4CEE-B9A9-58E7664E3675}|WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj|d:\\vscode_mautim_vip\\webapi_nhom12_chieut4\\webapi_nhom12_chieut4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A95B4D00-D754-4CEE-B9A9-58E7664E3675}|WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj|solutionrelative:webapi_nhom12_chieut4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{484E0F7E-1E65-EA89-DB6E-73814864F3B8}|WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj|c:\\users\\msii\\source\\repos\\appquanlydienthoaitreem\\webapi_nhom12_chieut4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484E0F7E-1E65-EA89-DB6E-73814864F3B8}|WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj|solutionrelative:webapi_nhom12_chieut4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,98 +14,68 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\vscode_mautim_vip\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\msii\\source\\repos\\appquanlydienthoaitreem\\WEBAPI_NHOM12_CHIEUT4\\Program.cs",
               "RelativeDocumentMoniker": "WEBAPI_NHOM12_CHIEUT4\\Program.cs",
-              "ToolTip": "D:\\vscode_mautim_vip\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4\\Program.cs",
+              "ToolTip": "C:\\Users\\msii\\source\\repos\\appquanlydienthoaitreem\\WEBAPI_NHOM12_CHIEUT4\\Program.cs",
               "RelativeToolTip": "WEBAPI_NHOM12_CHIEUT4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-21T09:25:59.031Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 319,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 95,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20261021092541_InitialChildSafetyDB.cs",
-              "DocumentMoniker": "D:\\vscode_mautim_vip\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4\\Migrations\\20261021092541_InitialChildSafetyDB.cs",
-              "RelativeDocumentMoniker": "WEBAPI_NHOM12_CHIEUT4\\Migrations\\20261021092541_InitialChildSafetyDB.cs",
-              "ToolTip": "D:\\vscode_mautim_vip\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4\\Migrations\\20261021092541_InitialChildSafetyDB.cs",
-              "RelativeToolTip": "WEBAPI_NHOM12_CHIEUT4\\Migrations\\20261021092541_InitialChildSafetyDB.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T09:25:42.238Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "D:\\vscode_mautim_vip\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4\\Services\\EmailService.cs",
-              "RelativeDocumentMoniker": "WEBAPI_NHOM12_CHIEUT4\\Services\\EmailService.cs",
-              "ToolTip": "D:\\vscode_mautim_vip\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4\\Services\\EmailService.cs",
-              "RelativeToolTip": "WEBAPI_NHOM12_CHIEUT4\\Services\\EmailService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T09:23:44.225Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppLimit.cs",
-              "DocumentMoniker": "D:\\vscode_mautim_vip\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4\\Models\\AppLimit.cs",
-              "RelativeDocumentMoniker": "WEBAPI_NHOM12_CHIEUT4\\Models\\AppLimit.cs",
-              "ToolTip": "D:\\vscode_mautim_vip\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4\\Models\\AppLimit.cs",
-              "RelativeToolTip": "WEBAPI_NHOM12_CHIEUT4\\Models\\AppLimit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T09:23:40.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\vscode_mautim_vip\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4\\Models\\User.cs",
-              "RelativeDocumentMoniker": "WEBAPI_NHOM12_CHIEUT4\\Models\\User.cs",
-              "ToolTip": "D:\\vscode_mautim_vip\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4\\Models\\User.cs",
-              "RelativeToolTip": "WEBAPI_NHOM12_CHIEUT4\\Models\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T09:23:38.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\vscode_mautim_vip\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "WEBAPI_NHOM12_CHIEUT4\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\vscode_mautim_vip\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "WEBAPI_NHOM12_CHIEUT4\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T09:23:21.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\vscode_mautim_vip\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4\\appsettings.json",
-              "RelativeDocumentMoniker": "WEBAPI_NHOM12_CHIEUT4\\appsettings.json",
-              "ToolTip": "D:\\vscode_mautim_vip\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4\\appsettings.json",
-              "RelativeToolTip": "WEBAPI_NHOM12_CHIEUT4\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-21T09:09:27.265Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }

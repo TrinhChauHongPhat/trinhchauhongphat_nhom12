@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\vscode_mautim_vip\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj": {}
+    "C:\\Users\\msii\\source\\repos\\appquanlydienthoaitreem\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj": {}
   },
   "projects": {
-    "D:\\vscode_mautim_vip\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj": {
+    "C:\\Users\\msii\\source\\repos\\appquanlydienthoaitreem\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vscode_mautim_vip\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj",
+        "projectUniqueName": "C:\\Users\\msii\\source\\repos\\appquanlydienthoaitreem\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj",
         "projectName": "WEBAPI_NHOM12_CHIEUT4",
-        "projectPath": "D:\\vscode_mautim_vip\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj",
-        "packagesPath": "C:\\Users\\bruce\\.nuget\\packages\\",
-        "outputPath": "D:\\vscode_mautim_vip\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4\\obj\\",
+        "projectPath": "C:\\Users\\msii\\source\\repos\\appquanlydienthoaitreem\\WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj",
+        "packagesPath": "C:\\Users\\msii\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\msii\\source\\repos\\appquanlydienthoaitreem\\WEBAPI_NHOM12_CHIEUT4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bruce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\msii\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -104,24 +104,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.30, 8.0.30]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.30, 8.0.30]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.30, 8.0.30]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.30, 8.0.30]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -130,7 +112,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

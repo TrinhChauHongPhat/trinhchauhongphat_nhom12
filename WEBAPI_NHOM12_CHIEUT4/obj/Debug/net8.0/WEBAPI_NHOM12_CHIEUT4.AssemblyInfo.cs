@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WEBAPI_NHOM12_CHIEUT4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df6c2c731864fd3f1cdb4a6814fb825912a3ac32")]
 [assembly: System.Reflection.AssemblyProductAttribute("WEBAPI_NHOM12_CHIEUT4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WEBAPI_NHOM12_CHIEUT4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
