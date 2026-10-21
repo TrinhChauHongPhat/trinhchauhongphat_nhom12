@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 class ApiService {
   // - Khi chạy trên Android Emulator: Dùng "http://10.0.2.2:7038/api"
   // - Khi cắm cáp USB chạy máy thật: Dùng IP LAN máy tính ("http://192.168.1.21:5000/api")
-  static const String baseUrl = 'https://localhost:7225/api';
+  static const String baseUrl = 'https://assumed-remarkable-llp-duncan.trycloudflare.com/api';
   static String? jwtToken;
 
   // 1. Đăng ký tài khoản
