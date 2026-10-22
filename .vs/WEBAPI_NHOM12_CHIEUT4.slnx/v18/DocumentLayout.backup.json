@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\msii\\source\\repos\\appquanlydienthoaitreem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{484E0F7E-1E65-EA89-DB6E-73814864F3B8}|WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj|c:\\users\\msii\\source\\repos\\appquanlydienthoaitreem\\webapi_nhom12_chieut4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{484E0F7E-1E65-EA89-DB6E-73814864F3B8}|WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj|solutionrelative:webapi_nhom12_chieut4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{484E0F7E-1E65-EA89-DB6E-73814864F3B8}|WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj|c:\\users\\msii\\source\\repos\\appquanlydienthoaitreem\\webapi_nhom12_chieut4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{484E0F7E-1E65-EA89-DB6E-73814864F3B8}|WEBAPI_NHOM12_CHIEUT4\\WEBAPI_NHOM12_CHIEUT4.csproj|solutionrelative:webapi_nhom12_chieut4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\msii\\source\\repos\\appquanlydienthoaitreem\\WEBAPI_NHOM12_CHIEUT4\\appsettings.json",
+              "RelativeDocumentMoniker": "WEBAPI_NHOM12_CHIEUT4\\appsettings.json",
+              "ToolTip": "C:\\Users\\msii\\source\\repos\\appquanlydienthoaitreem\\WEBAPI_NHOM12_CHIEUT4\\appsettings.json",
+              "RelativeToolTip": "WEBAPI_NHOM12_CHIEUT4\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-21T23:20:57.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\msii\\source\\repos\\appquanlydienthoaitreem\\WEBAPI_NHOM12_CHIEUT4\\Program.cs",
               "RelativeDocumentMoniker": "WEBAPI_NHOM12_CHIEUT4\\Program.cs",
